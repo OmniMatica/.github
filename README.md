@@ -1,1 +1,1 @@
-# omnimatica
+# OmniMatica
